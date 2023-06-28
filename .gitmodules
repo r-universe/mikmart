@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggragged"]
 	path = ggragged
 	url = https://github.com/mikmart/ggragged
-	shallow = true
-	registered = true
