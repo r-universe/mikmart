@@ -5,3 +5,6 @@
 [submodule "ggragged"]
 	path = ggragged
 	url = https://github.com/mikmart/ggragged
+[submodule "monad"]
+	path = monad
+	url = https://github.com/mikmart/monad
